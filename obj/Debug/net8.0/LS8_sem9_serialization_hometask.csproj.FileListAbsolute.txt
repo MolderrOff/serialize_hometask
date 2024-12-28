@@ -1,0 +1,14 @@
+C:\VStudio2022\GB\LS8_sem9_serialization_hometask\bin\Debug\net8.0\LS8_sem9_serialization_hometask.exe
+C:\VStudio2022\GB\LS8_sem9_serialization_hometask\bin\Debug\net8.0\LS8_sem9_serialization_hometask.deps.json
+C:\VStudio2022\GB\LS8_sem9_serialization_hometask\bin\Debug\net8.0\LS8_sem9_serialization_hometask.runtimeconfig.json
+C:\VStudio2022\GB\LS8_sem9_serialization_hometask\bin\Debug\net8.0\LS8_sem9_serialization_hometask.dll
+C:\VStudio2022\GB\LS8_sem9_serialization_hometask\bin\Debug\net8.0\LS8_sem9_serialization_hometask.pdb
+C:\VStudio2022\GB\LS8_sem9_serialization_hometask\obj\Debug\net8.0\LS8_sem9_serialization_hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\VStudio2022\GB\LS8_sem9_serialization_hometask\obj\Debug\net8.0\LS8_sem9_serialization_hometask.AssemblyInfoInputs.cache
+C:\VStudio2022\GB\LS8_sem9_serialization_hometask\obj\Debug\net8.0\LS8_sem9_serialization_hometask.AssemblyInfo.cs
+C:\VStudio2022\GB\LS8_sem9_serialization_hometask\obj\Debug\net8.0\LS8_sem9_serialization_hometask.csproj.CoreCompileInputs.cache
+C:\VStudio2022\GB\LS8_sem9_serialization_hometask\obj\Debug\net8.0\LS8_sem9_serialization_hometask.dll
+C:\VStudio2022\GB\LS8_sem9_serialization_hometask\obj\Debug\net8.0\refint\LS8_sem9_serialization_hometask.dll
+C:\VStudio2022\GB\LS8_sem9_serialization_hometask\obj\Debug\net8.0\LS8_sem9_serialization_hometask.pdb
+C:\VStudio2022\GB\LS8_sem9_serialization_hometask\obj\Debug\net8.0\LS8_sem9_serialization_hometask.genruntimeconfig.cache
+C:\VStudio2022\GB\LS8_sem9_serialization_hometask\obj\Debug\net8.0\ref\LS8_sem9_serialization_hometask.dll

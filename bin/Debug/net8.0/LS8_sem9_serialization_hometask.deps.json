@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LS8_sem9_serialization_hometask/1.0.0": {
+        "runtime": {
+          "LS8_sem9_serialization_hometask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LS8_sem9_serialization_hometask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
